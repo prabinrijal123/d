@@ -4,11 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PrabinDumre&label=Profile%20views&color=0e75b6&style=flat" alt="PrabinDumre" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PrabinDumre" alt="PrabinDumre" /></a> </p>
-
+<pre>
 - 🔭 I’m currently working on - [50 Days of Data Analysis Challenge](https://github.com/PrabinDumre/50_Days_DataAnalysisChallenge)<br>
                               - [100 Days of Python Learning](https://github.com/PrabinDumre/100_Days_Python_Learning)<br>
                               - [C Programming Learning](https://github.com/PrabinDumre/C_Programming_Beginner_Codes)
-
+</pre>
 
 - 🌱 I’m currently learning **Data Analysis.**
 
