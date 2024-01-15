@@ -5,8 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PrabinDumre" alt="PrabinDumre" /></a> </p>
 
-- 🔭 I’m currently working on - [50 Days of Data Analysis Challenge](https://github.com/PrabinDumre/50_Days_DataAnalysisChallenge)
-                              - [100 Days of Python Learning](https://github.com/PrabinDumre/100_Days_Python_Learning)
+- 🔭 I’m currently working on - [50 Days of Data Analysis Challenge](https://github.com/PrabinDumre/50_Days_DataAnalysisChallenge)<br>
+                              - [100 Days of Python Learning](https://github.com/PrabinDumre/100_Days_Python_Learning)<br>
                               - [C Programming Learning](https://github.com/PrabinDumre/C_Programming_Beginner_Codes)
 
 
